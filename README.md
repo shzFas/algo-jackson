@@ -1,2 +1,1 @@
-# algo-jackson
-Домашка в универе
+<img width="1440" height="6370" alt="uuapp plus4u net_uu-studyengine-maing01_c91f31522347bb551f6d3ba548fc81d2_student_studyOpenStep_oid=68a207213793e6b880151342" src="https://github.com/user-attachments/assets/7f7e2ce9-7167-46ea-b8dd-e4d2a5ca71bd" />
